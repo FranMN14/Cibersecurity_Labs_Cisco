@@ -14,7 +14,6 @@ Actualmente, este repositorio contiene evidencia práctica de los siguientes dom
 ## 📂 Estructura del Repositorio
 
 *   `laboratorios-y-practicas/`
-*   `ejercicios-y-tutorias/` 
 
 ## 🛠️ Herramientas y Tecnologías Aplicadas
 
